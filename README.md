@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/IvanRaymond/IvanRaymond/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/IvanRaymond/IvanRaymond/blob/main/wave.gif" width="30px">
 
 
 <!--
